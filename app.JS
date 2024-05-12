@@ -1,2 +1,1 @@
-// Adding a NavBar
-//Adding a SideBar
+// Adding a Footer
